@@ -5,7 +5,7 @@ Google Shell VPS Lifetime
 ## How to get VPS from google Shell?
 
 Login to Google Shell
-[Google Shell](https://shell.cloud.google.com)
+[Here](https://shell.cloud.google.com)
 
 Typing
 ```sudo apt-get install -y git```
