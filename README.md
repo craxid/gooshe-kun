@@ -27,7 +27,7 @@
 
 #### Copy the text you got from google remote desktop to Google Shell Terminal 
 
-Example: DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/XXXXXXXX" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+> Example: DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/XXXXXXXX" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
 
 #### input 6 digit pin you want
 
