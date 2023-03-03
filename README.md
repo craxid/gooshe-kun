@@ -1,6 +1,6 @@
 # Google Shell VPS Lifetime
 
-![Akebi Komichi](https://camo.githubusercontent.com/d6f00ee3f5a931eb2b67099472bde7b7ba00f496e1417f57ff3d3423f2d93f6d/68747470733a2f2f637261782e6d792e69642f77702d636f6e74656e742f75706c6f6164732f616b6562695f62616e6e65722e6a7067)
+![Akebi Komichi](https://crax.my.id/wp-content/uploads/akebi.jpg)
 
 #### How to get VPS from google Shell?
 
@@ -11,10 +11,10 @@
 ```sudo apt-get install -y git```
 
 #### Then clone this repository 
-```git clone https://github.com/craxid/akebi-gsc-vps```
+```git clone https://github.com/craxid/gooshe-kun```
 
 #### Move to repo directory
-```cd akebi-gsc-vps```
+```cd gooshe-kun```
 
 #### Then 
 ```chmod +x craxid.sh```
