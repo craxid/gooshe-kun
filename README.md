@@ -1,6 +1,6 @@
 # Google Shell VPS Lifetime
 
-![Akebi Komichi](https://crax.my.id/wp-content/uploads/akebi.jpg)
+![Akebi Komichi](https://crax.my.id/wp-content/uploads/akebi_topi.jpg)
 
 #### How to get VPS from google Shell?
 
