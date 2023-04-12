@@ -22,6 +22,8 @@
 #### Now run
 ```./craxid.sh```
 
+
+## How to get GUI from Google Remote Desktop
 #### Login to Google Remote Desktop
 [Google Remote Desktop](https://remotedesktop.google.com/headless)
 
