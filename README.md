@@ -2,7 +2,7 @@
 
 ![Akebi Komichi](https://crax.my.id/wp-content/uploads/akebi2.jpg)
 
-#### How to get VPS from google Shell?
+## How to get VPS from google Shell?
 
 #### Login to Google Shell
 [Here](https://shell.cloud.google.com)
@@ -21,7 +21,6 @@
 
 #### Now run
 ```./craxid.sh```
-
 
 ## How to get GUI from Google Remote Desktop
 #### Login to Google Remote Desktop
