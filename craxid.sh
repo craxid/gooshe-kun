@@ -1,6 +1,10 @@
 #!/bin/bash
 
-clear && sleep 2 && echo Memulai instalasi File XFCE dkk... 
+clear
+
+sleep 2
+
+echo Memulai instalasi File XFCE dkk... 
 
 sleep 3
 
