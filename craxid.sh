@@ -40,4 +40,28 @@ sleep 2
 
 echo Menginstal Chrome Remote Desktop
 
-sudo apt install -y ./*.debclear && sleep 3 && echo Menghapus sisa Instalasi... && sleep 3 && rm -r chrome-remote* && sleep 3 && echo Done Kak! && sleep 3 && echo sekarang copas teks yang kamu dapat dari Google Remote Desktop ya! && echo Support me! && sleep 2 && echo https://paypal.me/dedeklender
+sudo apt install -y ./*.deb
+
+clear
+
+sleep 3
+
+echo Menghapus sisa Instalasi...
+
+sleep 3
+
+rm -r chrome-remote*
+
+sleep 3
+
+echo Done Kak!
+
+sleep 3
+
+echo sekarang copas teks yang kamu dapat dari Google Remote Desktop ya!
+
+echo Support me!
+
+sleep 2
+
+echo https://paypal.me/dedeklender
